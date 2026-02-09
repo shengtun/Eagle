@@ -1,4 +1,4 @@
-# EAGLE: Expert-Augmented Guidance for MLLM-based Anomaly Detection
+# EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models
 
 ## 📖Catalogue
 
