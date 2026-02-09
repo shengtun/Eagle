@@ -34,6 +34,7 @@ To avoid fine-tuning overhead, we introduce two key mechanisms. The Distribution
   <img src="/figs/sampled_his.png" alt="Analysis" width="500"/>
 </p>
 
+
 A key observation motivating DBT is that only a small fraction of patch features are retained in the memory bank, while the majority are discarded during coreset sampling. These discarded features, although not stored in the memory bank, are still extracted from normal training images and thus encode rich information about the normal data distribution.
 
 We analyze the proportion of sampled and unsampled patches per training image during memory bank construction on representative classes. The results show that, on average, only about 10\% of patches are selected into the memory bank, while the unsampled patches account for approximately 90\% of all extracted features. Under this, we make the following observation: **For a normal training sample, the image-level anomaly score can be determined solely by the unsampled patches $P_i^{(un)}$.**
