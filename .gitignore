@@ -1,0 +1,21 @@
+# 忽略常见图片格式
+*.jpg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.tif
+*.webp
+*.json
+*.csv
+*.JPG
+*.npy
+*.faiss
+*.pkl
+result
+results_visualization
+id_rsa
+id_rsa.pub
+patchcore_models_paras
+Eagle/requirements.txt
+
