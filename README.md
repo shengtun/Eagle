@@ -31,7 +31,7 @@ To avoid fine-tuning overhead, we introduce two key mechanisms. The Distribution
 <p align="center">
   <img src="/figs/DBT_01.png" alt="DBT" width="400"/>
    &nbsp;&nbsp;
-  <img src="/figs/sampled_his.png" alt="Analysis" width="400"/>
+  <img src="/figs/sampled_his.png" alt="Analysis" width="450"/>
 </p>
 
 
