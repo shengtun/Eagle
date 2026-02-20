@@ -147,17 +147,4 @@ coming soon...
 - Our implementation of the Distribution-Based Thresholding (DBT) mechanism is heavily built upon [PatchCore](https://github.com/amazon-science/patchcore-inspection), and the evaluation pipeline is adapted from [MMAD](https://github.com/jam-cc/MMAD) . We sincerely thank the authors for open-sourcing their work!!
 - This project is developed under CUDA 11.4, which is intentionally selected for compatibility with legacy industrial environments. If you encounter any issues during reproduction, please report them in the Issues section.
  <span id='thanks'/>
- 
-## Citation
 
-If you find this repository and our paper useful, please consider citing our work 😊
-  
-```bash
-@article{eagle2026,
-  title={EAGLE: Expert-Augmented Guidance for Reliable MLLM-based Anomaly Detection},
-  author={},
-  journal={},
-  year={2026}
-}
-```
-<span id='citation'/>
