@@ -148,3 +148,17 @@ coming soon...
 - This project is developed under CUDA 11.4, which is intentionally selected for compatibility with legacy industrial environments. If you encounter any issues during reproduction, please report them in the Issues section.
  <span id='thanks'/>
 
+ ## Citation
+
+If you find this repository and our paper useful, please consider citing our work 😊
+  
+```bash
+@article{peng2026eagle,
+  title={EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models},
+  author={Peng, Xiaomeng and Huang, Xilang and Choi, Seon Han},
+  journal={arXiv preprint arXiv:2602.17419},
+  year={2026}
+}
+```
+<span id='citation'/>
+
