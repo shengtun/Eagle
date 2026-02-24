@@ -1,5 +1,5 @@
 # EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models
-
+[![arXiv](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.17419)
 ## 📖Catalogue
 
 * <a href="#abstract">1. Paper Overview</a>
